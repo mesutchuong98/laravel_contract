@@ -31,6 +31,7 @@ class ContractController extends Controller
         $session = Auth::user();
         // $session=Session('data');
         // dd($session);
+        $a = 1;
         $level = $session['level'];
         $id = $session['Id'];
         $nameSearch = $rq->table_search;
