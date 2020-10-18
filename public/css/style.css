@@ -1,0 +1,69 @@
+.demo-container {
+    height: 570px;
+}
+
+
+.dx-filterbuilder-overlay .dx-scrollable-container {
+    max-height: 400px;
+}
+
+.options {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgba(191, 191, 191, 0.15);
+}
+
+.caption {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.option {
+    margin-top: 10px;
+}
+
+.option > span {
+    margin-right: 10px;
+}
+
+
+.filter-container {
+    background-color: rgba(191, 191, 191, 0.15);
+    padding: 5px;
+    width: 1200px;
+	margin-bottom: 25px;
+}
+
+.dx-filterbuilder {
+    padding: 10px;
+}
+
+.dx-button {
+	margin: 10px;
+    float: right;
+
+}
+
+.dx-filterbuilder .dx-numberbox {
+    width: 80px;
+}
+/* i.fa.fa-caret-square-o-right::before{
+color: orange !important;
+}
+i.fa.fa-pencil-square-o{
+color: orange !important;
+}
+i.fa.fa-times{
+    color: red !important;
+} */
+tr.dx-row.dx-column-lines.dx-header-row{
+    color: blueviolet !important;
+    font-weight: bold !important;
+}
+
+#gridContainer {
+    height: 300px;
+}
+.dx-datagrid-rowsview .dx-select-checkboxes-hidden > tbody > tr > td > .dx-select-checkbox {
+    display: inline-block;
+   }
